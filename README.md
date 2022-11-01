@@ -11,3 +11,7 @@
 ### Frontend
 - React
 - Next
+
+### Web
+- React Native
+- Expo
