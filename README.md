@@ -7,3 +7,7 @@
  - Prisma
  - SQLite
  - Diagrama ERD
+
+### Frontend
+- React
+- Next
