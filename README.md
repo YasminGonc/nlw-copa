@@ -1,4 +1,6 @@
 # nlw-copa
+
+Aplicação fullstack construída durante o NLW Copa.
  
  ## Ferramentas utilizadas
 
