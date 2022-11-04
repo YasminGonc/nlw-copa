@@ -2,13 +2,14 @@
 
 Aplicação fullstack construída durante o NLW Copa.
  
- ## Ferramentas utilizadas
+## Ferramentas utilizadas
+- Autenticação do usuário com a conta Google
 
- ### Backend
- - Fastify
- - Prisma
- - SQLite
- - Diagrama ERD
+### Backend
+- Fastify
+- Prisma
+- SQLite
+- Diagrama ERD
 
 ### Frontend
 - React
