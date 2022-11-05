@@ -19,3 +19,4 @@ Aplicação fullstack construída durante o NLW Copa.
 - React Native
 - Expo
 - Native Base
+- React Navigation
