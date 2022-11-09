@@ -29,3 +29,4 @@ Aplicação fullstack construída durante o NLW Copa da [Rocketseat](https://www
 ## Informações complementares
 - Author: [Yasmin](https://www.linkedin.com/in/yasmin-goncalves/)
 - Challenge by Rocketseat.
+- Design do [Figma](https://www.figma.com/file/cpnHfJ5MPpOUHLS2ntBCZ5/Bol%C3%A3o-da-Copa-(Community)?node-id=0%3A1&t=vkBJoEyjYaPh7zIS-0).
